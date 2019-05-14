@@ -1,0 +1,14 @@
+C:\Users\petar.t\Desktop\New folder\ReverseChars\ReverseChars\bin\Debug\ReverseChars.exe.config
+C:\Users\petar.t\Desktop\New folder\ReverseChars\ReverseChars\bin\Debug\ReverseChars.exe
+C:\Users\petar.t\Desktop\New folder\ReverseChars\ReverseChars\bin\Debug\ReverseChars.pdb
+C:\Users\petar.t\Desktop\New folder\ReverseChars\ReverseChars\obj\Debug\ReverseChars.csprojAssemblyReference.cache
+C:\Users\petar.t\Desktop\New folder\ReverseChars\ReverseChars\obj\Debug\ReverseChars.csproj.CoreCompileInputs.cache
+C:\Users\petar.t\Desktop\New folder\ReverseChars\ReverseChars\obj\Debug\ReverseChars.exe
+C:\Users\petar.t\Desktop\New folder\ReverseChars\ReverseChars\obj\Debug\ReverseChars.pdb
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\academy\MatchingBrackets\ReverseChars\bin\Debug\ReverseChars.exe.config
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\academy\MatchingBrackets\ReverseChars\bin\Debug\ReverseChars.exe
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\academy\MatchingBrackets\ReverseChars\bin\Debug\ReverseChars.pdb
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\academy\MatchingBrackets\ReverseChars\obj\Debug\ReverseChars.csprojAssemblyReference.cache
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\academy\MatchingBrackets\ReverseChars\obj\Debug\ReverseChars.csproj.CoreCompileInputs.cache
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\academy\MatchingBrackets\ReverseChars\obj\Debug\ReverseChars.exe
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\academy\MatchingBrackets\ReverseChars\obj\Debug\ReverseChars.pdb
