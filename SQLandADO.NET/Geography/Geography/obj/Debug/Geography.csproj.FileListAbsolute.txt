@@ -1,0 +1,18 @@
+C:\Users\petar.t\source\repos\Geography\Geography\bin\Debug\Geography.exe.config
+C:\Users\petar.t\source\repos\Geography\Geography\bin\Debug\Geography.exe
+C:\Users\petar.t\source\repos\Geography\Geography\bin\Debug\Geography.pdb
+C:\Users\petar.t\source\repos\Geography\Geography\bin\Debug\System.Data.SqlClient.dll
+C:\Users\petar.t\source\repos\Geography\Geography\obj\Debug\Geography.csprojAssemblyReference.cache
+C:\Users\petar.t\source\repos\Geography\Geography\obj\Debug\Geography.csproj.CoreCompileInputs.cache
+C:\Users\petar.t\source\repos\Geography\Geography\obj\Debug\Geography.csproj.CopyComplete
+C:\Users\petar.t\source\repos\Geography\Geography\obj\Debug\Geography.exe
+C:\Users\petar.t\source\repos\Geography\Geography\obj\Debug\Geography.pdb
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\sqlandado\Geography\Geography\bin\Debug\Geography.exe.config
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\sqlandado\Geography\Geography\bin\Debug\Geography.exe
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\sqlandado\Geography\Geography\bin\Debug\Geography.pdb
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\sqlandado\Geography\Geography\bin\Debug\System.Data.SqlClient.dll
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\sqlandado\Geography\Geography\obj\Debug\Geography.csprojAssemblyReference.cache
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\sqlandado\Geography\Geography\obj\Debug\Geography.csproj.CoreCompileInputs.cache
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\sqlandado\Geography\Geography\obj\Debug\Geography.csproj.CopyComplete
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\sqlandado\Geography\Geography\obj\Debug\Geography.exe
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\sqlandado\Geography\Geography\obj\Debug\Geography.pdb
