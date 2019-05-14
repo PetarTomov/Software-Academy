@@ -1,0 +1,14 @@
+C:\Users\petar.t\Desktop\New folder\Person\Person\bin\Debug\Person.exe.config
+C:\Users\petar.t\Desktop\New folder\Person\Person\bin\Debug\Person.exe
+C:\Users\petar.t\Desktop\New folder\Person\Person\bin\Debug\Person.pdb
+C:\Users\petar.t\Desktop\New folder\Person\Person\obj\Debug\Person.csprojAssemblyReference.cache
+C:\Users\petar.t\Desktop\New folder\Person\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+C:\Users\petar.t\Desktop\New folder\Person\Person\obj\Debug\Person.exe
+C:\Users\petar.t\Desktop\New folder\Person\Person\obj\Debug\Person.pdb
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\academy\Person\Person\bin\Debug\Person.exe.config
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\academy\Person\Person\bin\Debug\Person.exe
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\academy\Person\Person\bin\Debug\Person.pdb
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\academy\Person\Person\obj\Debug\Person.csprojAssemblyReference.cache
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\academy\Person\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\academy\Person\Person\obj\Debug\Person.exe
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\academy\Person\Person\obj\Debug\Person.pdb
