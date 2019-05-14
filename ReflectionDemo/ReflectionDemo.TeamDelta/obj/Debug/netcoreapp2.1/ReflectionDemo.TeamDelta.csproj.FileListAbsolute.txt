@@ -1,0 +1,24 @@
+C:\Users\petar.t\Downloads\ReflectionDemo\ReflectionDemo.TeamDelta\bin\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.deps.json
+C:\Users\petar.t\Downloads\ReflectionDemo\ReflectionDemo.TeamDelta\bin\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.dll
+C:\Users\petar.t\Downloads\ReflectionDemo\ReflectionDemo.TeamDelta\bin\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.pdb
+C:\Users\petar.t\Downloads\ReflectionDemo\ReflectionDemo.TeamDelta\bin\Debug\netcoreapp2.1\ReflectionDemo.Infrastructure.dll
+C:\Users\petar.t\Downloads\ReflectionDemo\ReflectionDemo.TeamDelta\bin\Debug\netcoreapp2.1\ReflectionDemo.Infrastructure.pdb
+C:\Users\petar.t\Downloads\ReflectionDemo\ReflectionDemo.TeamDelta\obj\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.csprojAssemblyReference.cache
+C:\Users\petar.t\Downloads\ReflectionDemo\ReflectionDemo.TeamDelta\obj\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.csproj.CoreCompileInputs.cache
+C:\Users\petar.t\Downloads\ReflectionDemo\ReflectionDemo.TeamDelta\obj\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.AssemblyInfoInputs.cache
+C:\Users\petar.t\Downloads\ReflectionDemo\ReflectionDemo.TeamDelta\obj\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.AssemblyInfo.cs
+C:\Users\petar.t\Downloads\ReflectionDemo\ReflectionDemo.TeamDelta\obj\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.csproj.CopyComplete
+C:\Users\petar.t\Downloads\ReflectionDemo\ReflectionDemo.TeamDelta\obj\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.dll
+C:\Users\petar.t\Downloads\ReflectionDemo\ReflectionDemo.TeamDelta\obj\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.pdb
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\ReflectionDemo\ReflectionDemo.TeamDelta\bin\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.deps.json
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\ReflectionDemo\ReflectionDemo.TeamDelta\bin\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.dll
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\ReflectionDemo\ReflectionDemo.TeamDelta\bin\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.pdb
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\ReflectionDemo\ReflectionDemo.TeamDelta\bin\Debug\netcoreapp2.1\ReflectionDemo.Infrastructure.dll
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\ReflectionDemo\ReflectionDemo.TeamDelta\bin\Debug\netcoreapp2.1\ReflectionDemo.Infrastructure.pdb
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\ReflectionDemo\ReflectionDemo.TeamDelta\obj\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.csprojAssemblyReference.cache
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\ReflectionDemo\ReflectionDemo.TeamDelta\obj\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.csproj.CoreCompileInputs.cache
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\ReflectionDemo\ReflectionDemo.TeamDelta\obj\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.AssemblyInfoInputs.cache
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\ReflectionDemo\ReflectionDemo.TeamDelta\obj\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.AssemblyInfo.cs
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\ReflectionDemo\ReflectionDemo.TeamDelta\obj\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.csproj.CopyComplete
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\ReflectionDemo\ReflectionDemo.TeamDelta\obj\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.dll
+D:\Soft. Engineering\SBTech\SoftAcademy\SoftAcademy\ReflectionDemo\ReflectionDemo.TeamDelta\obj\Debug\netcoreapp2.1\ReflectionDemo.TeamDelta.pdb

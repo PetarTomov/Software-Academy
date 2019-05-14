@@ -1,0 +1,8 @@
+D:\Studying\ReflectionDemo\ReflectionDemo.Roles\bin\Debug\netcoreapp2.1\ReflectionDemo.Roles.deps.json
+D:\Studying\ReflectionDemo\ReflectionDemo.Roles\bin\Debug\netcoreapp2.1\ReflectionDemo.Roles.dll
+D:\Studying\ReflectionDemo\ReflectionDemo.Roles\bin\Debug\netcoreapp2.1\ReflectionDemo.Roles.pdb
+D:\Studying\ReflectionDemo\ReflectionDemo.Roles\obj\Debug\netcoreapp2.1\ReflectionDemo.Roles.csproj.CoreCompileInputs.cache
+D:\Studying\ReflectionDemo\ReflectionDemo.Roles\obj\Debug\netcoreapp2.1\ReflectionDemo.Roles.AssemblyInfoInputs.cache
+D:\Studying\ReflectionDemo\ReflectionDemo.Roles\obj\Debug\netcoreapp2.1\ReflectionDemo.Roles.AssemblyInfo.cs
+D:\Studying\ReflectionDemo\ReflectionDemo.Roles\obj\Debug\netcoreapp2.1\ReflectionDemo.Roles.dll
+D:\Studying\ReflectionDemo\ReflectionDemo.Roles\obj\Debug\netcoreapp2.1\ReflectionDemo.Roles.pdb

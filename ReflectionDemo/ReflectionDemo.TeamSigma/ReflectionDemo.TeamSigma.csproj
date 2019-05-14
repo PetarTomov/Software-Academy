@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ReflectionDemo.Roles\ReflectionDemo.Infrastructure.csproj" />
+    <ProjectReference Include="..\ReflectionDemo.TeamDelta\ReflectionDemo.TeamDelta.csproj" />
+  </ItemGroup>
+
+</Project>
